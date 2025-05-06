@@ -9,3 +9,5 @@
 *.error
 *.debug
 npm-debug.log*
+# Ignorar archivos de Prisma
+prisma/migrations
